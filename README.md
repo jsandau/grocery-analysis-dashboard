@@ -1,4 +1,4 @@
-## 🛒 Grocery Analysis Dashboard
+## Grocery Analysis Dashboard
 A Python + SQL project that extracts, cleans, and stores Costco grocery order data, then visualizes trends, forecasts demand, and identifies anomalies using Tableau dashboards.
 
 ---
@@ -8,7 +8,7 @@ While analyzing fraternity grocery orders, I noticed inefficiencies in planning 
 
 ---
 
-## 🚀 Features
+## Features
 
 - **PDF Parsing & Data Cleaning:** Extracts structured data from weekly invoices using Python (pdfplumber + pandas).   
  
@@ -24,7 +24,7 @@ While analyzing fraternity grocery orders, I noticed inefficiencies in planning 
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Languages:** Python, SQL   
 
@@ -36,7 +36,7 @@ While analyzing fraternity grocery orders, I noticed inefficiencies in planning 
 
 ---
 
-## 📈 Workflow
+## Workflow
 
 1. Extract weekly order data from PDFs.   
 
@@ -50,14 +50,14 @@ While analyzing fraternity grocery orders, I noticed inefficiencies in planning 
 
 ---
 
-## 📊 Tableau Dashboard    
+## Tableau Dashboard    
 [View Here](https://public.tableau.com/views/GroceryData_17614263618620/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)   
 Visualizes weekly spending, item demand forecasts, and category trends.   
 Highlights top items, and spending patterns.     
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 Automate weekly PDF extraction and Tableau data refresh.   
 
@@ -67,7 +67,7 @@ Add an interactive web front-end for easier exploration.
 
 ---
 
-## 👨‍💻 Author
+## Author
 Jacob Sandau   
 University of Minnesota   
 [LinkedIn](https://www.linkedin.com/in/jacob-sandau-204743233/) | jsandau@sandau.com
